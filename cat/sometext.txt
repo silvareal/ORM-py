@@ -1,0 +1,2 @@
+>>> parsed args:  Namespace(files=['d.txt'], numbers=False)
+hopes it continues
